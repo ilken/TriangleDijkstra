@@ -7,8 +7,11 @@ Find the shortest path between top vertex and the bottom edge of the equilateral
 Example Triangle.txt
 
 7
+
 6 3
+
 3 8 5
+
 11 2 10 9
 
 A path through the triangle is a sequence of adjacent nodes, one from each row, starting from the top.
